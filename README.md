@@ -23,9 +23,11 @@
 
   <br>
   Now you have successfully intiated the api and ready for calling its services.
+  
   <br>
+  
   ##### About the api
-  This api implements a simple task management. By this api you can create, update and delete a task. This api ensures that no XSS has been injected which is a major security threat in api development. <br>
+  This api designed for a simple task management. By this api you can create, update and delete a task. This api ensures that no XSS has been injected which is a major security threat in api development. <br>
   Currently: Task attributes are Task name and description and a new ID is alloted everytime for each new task. 
 
   #### Methodology
