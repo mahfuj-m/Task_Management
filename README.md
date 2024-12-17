@@ -11,5 +11,8 @@
 - ###### Test
 - ###### Technology
 
+##### To set up the project locally, follow these steps
+ 1. Clone the repository
+ 2. Navigate the project folder, `cd Task_Management`
 
 
