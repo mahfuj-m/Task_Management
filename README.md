@@ -46,8 +46,8 @@
   I conducted manual testing and trying different edge scenarios , few examples are listed under the `test_cases.json` file. 
 
   ###### Technology
-  Microservice: Flask
-  Language: Python
+  Microservice: Flask <br>
+  Language: Python <br>
   API Architecture: REST API
      
 
